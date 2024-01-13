@@ -1,0 +1,10 @@
+###### build great CLIs, easy to code
+typer==0.3.2 
+
+###### Makes ANSI escape character sequences (for producing colored terminal text and cursor positioning) work under MS Windows.
+colorama==0.4.4 
+
+####### Shellingham detects what shell the current Python executable is running in.
+shellingham==1.4.0 
+
+pytest==6.2.4
